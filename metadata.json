@@ -1,0 +1,8 @@
+
+{
+  "name": "NurseSim AI: Nursing History Taking Simulator",
+  "description": "An interactive AI-powered simulation platform for nursing students to practice patient history taking with real-time audio feedback, intelligent scoring, and instructor case management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
